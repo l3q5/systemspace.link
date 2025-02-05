@@ -1,0 +1,55 @@
+html, body {
+	cursor: url(../images/default.png), default;
+}
+
+a {
+	cursor: url(../images/out.png), pointer;
+}
+
+.cur-confirm {
+	cursor: url(../images/confirm.png), pointer;
+}
+.cur-cancel {
+	cursor: url(../images/cancel.png), pointer;
+}
+.cur-no, .disabled {
+	cursor: url(../images/no.png), pointer;
+}
+
+.cur-action {
+	cursor: url(../images/action.png), pointer;
+}
+.cur-copy {
+	cursor: url(../images/copy.png), pointer;
+}
+
+.cur-open {
+	cursor: url(../images/open.png), pointer;
+}
+.cur-close {
+	cursor: url(../images/close.png), pointer;
+}
+
+.cur-up {
+	cursor: url(../images/up.png), pointer;
+}
+.cur-upup {
+	cursor: url(../images/upup.png), pointer;
+}
+.cur-stay {
+	cursor: url(../images/stay.png), pointer;
+}
+.cur-down {
+	cursor: url(../images/down.png), pointer;
+}
+.cur-downdown {
+	cursor: url(../images/downdown.png), pointer;
+}
+
+.cur-out {
+	cursor: url(../images/out.png), pointer;
+}
+
+.cur-dataverse, .dataverse-link {
+	cursor: url(../images/dataverse.png), pointer;
+}
